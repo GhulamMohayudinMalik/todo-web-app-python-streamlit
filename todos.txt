@@ -5,5 +5,4 @@ Clean the Room
 Watch Cricket Match
 Play Cricket
 Play Hockey
-Learn Python
- 
+Push on GitHub
